@@ -4,6 +4,8 @@
 #xhofe/alist:latest
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
-prom/prometheus:v3.9.1
-prom/node-exporter:v1.10.2
-prom/alertmanager:v0.31.0
+grafana/grafana:12.3.2-security-01
+#prom/prometheus:v3.9.1
+#prom/node-exporter:v1.10.2
+#prom/alertmanager:v0.31.0
+
